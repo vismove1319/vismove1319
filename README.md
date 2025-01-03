@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola, soy Víctor Mosqueira! 👋
 
-<!--
-**vismove1319/vismove1319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante apasionado por el desarrollo de software, actualmente enfocado en mejorar mis habilidades en **HTML**, **CSS**, **JavaScript** y **Java**. Mi objetivo es construir aplicaciones web y sistemas innovadores, siempre aprendiendo nuevas tecnologías y herramientas que me permitan crecer como desarrollador.
 
-Here are some ideas to get you started:
+## 🚀 Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Actualmente estoy estudiando **Desarrollo de Software**.
+- 💻 Tengo experiencia trabajando con:
+  - **HTML** para crear estructuras web.
+  - **CSS** para diseñar interfaces atractivas y funcionales.
+  - **JavaScript** para dar interactividad a mis proyectos.
+  - **Java** para el desarrollo de aplicaciones de escritorio y backend.
+- 🌱 Siempre estoy aprendiendo nuevas tecnologías y herramientas.
+- 🔧 Mi objetivo es mejorar mis habilidades y comenzar a contribuir en proyectos de código abierto.
+
+
+  
+
+
+¡Gracias por visitar mi perfil! 😊
+
+
